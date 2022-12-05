@@ -135,9 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Abhinab and I enjoy creating things that live on the internet. I have been making websites for the web I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Abhinab and I enjoy creating things that live on the internet. I
+              have been making websites for the web I decided to try editing custom Tumblr themes —
+              turns out hacking together a custom reblog button taught me a lot about HTML &amp;
+              CSS!
             </p>
 
             <p>
